@@ -159,7 +159,7 @@ class _MoodHomePageState extends State<MoodHomePage>{
 }
 String _getChatResponse(String input) {
   input = input.toLowerCase();
-  if (input.contains("sad")) return "It’s okay to feel sad. Want to try some calming music?";
+  if (input.contains("sad")||input.contains('crying')||input.contains('anxious')) return "It’s okay to feel sad. Want to try some calming music?";
   if (input.contains("help")) return "I'm here for you. Try the SOS button anytime.";
   if (input.contains("happy")) return "That's awesome! What made you feel happy today?";
   if (input.contains("alone")) return "You're not alone. Reach out or try SOS support.";
