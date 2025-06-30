@@ -83,3 +83,12 @@ git clone https://github.com/your-username/MindNest.git
 cd MindNest
 flutter pub get
 flutter run
+![Screenshot 2025-06-30 131520](https://github.com/user-attachments/assets/0ae9a7ef-ee6b-44e6-8153-b81893642802)
+![Screenshot 2025-06-30 131656](https://github.com/user-attachments/assets/04909140-7d7f-477f-a3eb-763ef718a9ad)
+![Screenshot 2025-06-30 131852](https://github.com/user-attachments/assets/49964954-1dd4-4237-8809-93c920055606)
+![Screenshot 2025-06-30 131903](https://github.com/user-attachments/assets/fecfaa37-7884-4814-bda3-4a9f5fffcc94)
+![Screenshot 2025-06-30 132252](https://github.com/user-attachments/assets/ed604430-ba7a-4aae-9a98-3635e7937d30)
+
+
+
+
