@@ -1,6 +1,6 @@
-# startwellapp
 
-# 🧠 MindNest – Your Personal AI Wellness Agent
+
+# 🧠 MindNest – Your Personal AI Wellness Space
 
 MindNest is a gentle, interactive journaling app that helps users check in with their emotions through playful mood tracking and emotionally intelligent prompts.
 
